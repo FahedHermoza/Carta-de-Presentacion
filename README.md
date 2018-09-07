@@ -77,7 +77,7 @@ Concéntrese en lo que usted es mejor. Use la carta de presentación para auto p
     2. Tu puedes encontrar las necesidades del cliente.
     3. Tu puedes desarrollar con la experiencia del usuario o diseño de interfaz en mente.
 
-#### En el cuerpo del documento Artsy Udacian se describe 
+#### En el cuerpo del documento [Artsy Udacian](https://github.com/FahedHermoza/Carta-de-Presentacion/blob/master/Resource/CartaEjemplo.pdf) se describe
 - Experiencias previas para las tareas del puesto de trabajo.
 - Experiencias de trabajos individuales que aporta de manera única al puesto.
 - Muestra habilidades técnicas como habilidades blandas.
